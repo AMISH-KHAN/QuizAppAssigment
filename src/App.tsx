@@ -6,7 +6,7 @@ import Marks from "./Components/Marks"
 function App() {
   return (
     <>
-      <div className="w-full h-screen bg-[#0F0535] flex justify-center items-center -z-30 bg-[url('./assets/galaxy.svg')] bg-cover bg-center">
+      <div className="w-full h-screen bg-[#0F0535] flex justify-center items-center -z-30 bg-[url('/assets/galaxy.svg')] bg-cover bg-center">
       <BrowserRouter>
         <Routes>
 
